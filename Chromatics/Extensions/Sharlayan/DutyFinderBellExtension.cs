@@ -77,7 +77,7 @@ namespace Chromatics.Extensions.Sharlayan
                     if (_memoryHandler.Scanner.Locations.ContainsKey(memoryName))
                     {
                         var address = _memoryHandler.Scanner.Locations[memoryName];
-                        var contentFinderState = _memoryHandler.GetByte(address.GetAddress(), 0x145);
+                        var contentFinderState = _memoryHandler.GetByte(address.GetAddress(), 0x14D);
 
                         _isPopped = contentFinderState == 3; //ContentFinderState of 3 means DF pop but not entered yet
                         _inInstance = contentFinderState > 3;

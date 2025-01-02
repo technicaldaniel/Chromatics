@@ -5,7 +5,7 @@
     <TargetFramework>net8.0-windows7.0</TargetFramework>
     <UseWindowsForms>true</UseWindowsForms>
     <StartupObject>Chromatics.Program</StartupObject>
-    <Version>3.1.5.0</Version>
+    <Version>3.1.6.0</Version>
     <Authors>Danielle Thompson</Authors>
     <ApplicationManifest>app.manifest</ApplicationManifest>
     <Copyright>Danielle Thompson 2024</Copyright>
@@ -35,7 +35,7 @@
     <PackageReference Include="Autoupdater.NET.Official" Version="1.9.2" />
     <PackageReference Include="CsvHelper" Version="33.0.1" />
     <PackageReference Include="Cyotek.Windows.Forms.ColorPicker" Version="2.0.0-beta.7" />
-    <PackageReference Include="FFXIVWeather" Version="1.0.16" />
+    <PackageReference Include="FFXIVWeather" Version="1.0.17" />
     <PackageReference Include="HidSharp" Version="2.1.0" />
     <PackageReference Include="HueApi" Version="1.6.3" />
     <PackageReference Include="HueApi.ColorConverters" Version="1.5.1" />
@@ -44,20 +44,20 @@
     <PackageReference Include="NAudio" Version="2.2.1" />
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
     <PackageReference Include="NLog" Version="5.3.3" />
-    <PackageReference Include="RGB.NET.Core" Version="3.0.0-prerelease.2" />
-    <PackageReference Include="RGB.NET.Devices.Asus" Version="3.0.0-prerelease.2" />
-    <PackageReference Include="RGB.NET.Devices.CoolerMaster" Version="3.0.0-prerelease.2" />
-    <PackageReference Include="RGB.NET.Devices.Corsair" Version="3.0.0-prerelease.2" />
-    <PackageReference Include="RGB.NET.Devices.Logitech" Version="3.0.0-prerelease.2" />
-    <PackageReference Include="RGB.NET.Devices.Msi" Version="3.0.0-prerelease.2" />
-    <PackageReference Include="RGB.NET.Devices.Novation" Version="3.0.0-prerelease.2" />
-    <PackageReference Include="RGB.NET.Devices.OpenRGB" Version="3.0.0-prerelease.2" />
-    <PackageReference Include="RGB.NET.Devices.Razer" Version="3.0.0-prerelease.2" />
-    <PackageReference Include="RGB.NET.Devices.SteelSeries" Version="3.0.0-prerelease.2" />
-    <PackageReference Include="RGB.NET.Devices.Wooting" Version="3.0.0-prerelease.2" />
-    <PackageReference Include="RGB.NET.HID" Version="3.0.0-prerelease.2" />
-    <PackageReference Include="RGB.NET.Layout" Version="3.0.0-prerelease.2" />
-    <PackageReference Include="RGB.NET.Presets" Version="3.0.0-prerelease.2" />
+    <PackageReference Include="RGB.NET.Core" Version="3.0.0-prerelease.3" />
+    <PackageReference Include="RGB.NET.Devices.Asus" Version="3.0.0-prerelease.3" />
+    <PackageReference Include="RGB.NET.Devices.CoolerMaster" Version="3.0.0-prerelease.3" />
+    <PackageReference Include="RGB.NET.Devices.Corsair" Version="3.0.0-prerelease.3" />
+    <PackageReference Include="RGB.NET.Devices.Logitech" Version="3.0.0-prerelease.3" />
+    <PackageReference Include="RGB.NET.Devices.Msi" Version="3.0.0-prerelease.3" />
+    <PackageReference Include="RGB.NET.Devices.Novation" Version="3.0.0-prerelease.3" />
+    <PackageReference Include="RGB.NET.Devices.OpenRGB" Version="3.0.0-prerelease.3" />
+    <PackageReference Include="RGB.NET.Devices.Razer" Version="3.0.0-prerelease.3" />
+    <PackageReference Include="RGB.NET.Devices.SteelSeries" Version="3.0.0-prerelease.3" />
+    <PackageReference Include="RGB.NET.Devices.Wooting" Version="3.0.0-prerelease.3" />
+    <PackageReference Include="RGB.NET.HID" Version="3.0.0-prerelease.3" />
+    <PackageReference Include="RGB.NET.Layout" Version="3.0.0-prerelease.3" />
+    <PackageReference Include="RGB.NET.Presets" Version="3.0.0-prerelease.3" />
     <PackageReference Include="Sanford.Multimedia.Midi" Version="6.6.2" />
     <PackageReference Include="Sharlayan" Version="8.0.1" />
   </ItemGroup>

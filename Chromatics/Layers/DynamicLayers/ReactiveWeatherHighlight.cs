@@ -270,6 +270,14 @@ namespace Chromatics.Layers.DynamicLayers
                             bossNames = ["Wicked Thunder"];
                         }
                         break;
+                    case "Sphere of Naught":
+                        if (effectSettings.effect_raideffects)
+                        {
+                            color = ColorHelper.ColorToRGBColor(_colorPalette.RaidEffectM4KeyHighlight.Color);
+                            raidEffectsRunning = true;
+                            bossNames = ["Cloud of Darkness"];
+                        }
+                        break;
                 }
             }
 
