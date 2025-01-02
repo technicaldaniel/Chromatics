@@ -353,7 +353,7 @@ namespace Chromatics.Layers
             var color = GetWeatherColor(weather, _colorPalette);
 
             //Filter for zone specific special weather
-            Logger.WriteConsole(Enums.LoggerTypes.FFXIV, $"Zone: {zone}. DFC: {dutyComplete}. InInstance: {inInstance}");
+            //Logger.WriteConsole(Enums.LoggerTypes.FFXIV, $"Zone: {zone}. DFC: {dutyComplete}. InInstance: {inInstance}");
 
             if (inInstance && !dutyComplete)
             {

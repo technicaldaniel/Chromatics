@@ -64,7 +64,7 @@
             },
             "FFXIVWeather": {
               "target": "Package",
-              "version": "[1.0.16, )"
+              "version": "[1.0.17, )"
             },
             "HidSharp": {
               "target": "Package",
@@ -100,59 +100,59 @@
             },
             "RGB.NET.Core": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "RGB.NET.Devices.Asus": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "RGB.NET.Devices.CoolerMaster": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "RGB.NET.Devices.Corsair": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "RGB.NET.Devices.Logitech": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "RGB.NET.Devices.Msi": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "RGB.NET.Devices.Novation": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "RGB.NET.Devices.OpenRGB": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "RGB.NET.Devices.Razer": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "RGB.NET.Devices.SteelSeries": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "RGB.NET.Devices.Wooting": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "RGB.NET.HID": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "RGB.NET.Layout": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "RGB.NET.Presets": {
               "target": "Package",
-              "version": "[3.0.0-prerelease.2, )"
+              "version": "[3.0.0-prerelease.3, )"
             },
             "Sanford.Multimedia.Midi": {
               "target": "Package",
